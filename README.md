@@ -1,0 +1,2 @@
+# exerciciosjpa
+Exercícios de JPA
